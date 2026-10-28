@@ -1,6 +1,4 @@
 #Infix to Postfix Conversion
-
-Project Description
 This project converts an infix expression into a postfix expression using the C programming language and a stack data structure.
 
 Objective
