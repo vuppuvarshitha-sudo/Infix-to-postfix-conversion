@@ -48,5 +48,4 @@ Applications
 
 Conclusion
 This project demonstrates how a stack is used to convert infix expressions into postfix notation using C programming.
-This project demonstrates how a stack is used to convert infix expressions into postfix notation using C programming.
 
